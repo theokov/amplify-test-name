@@ -4,7 +4,7 @@
   "description": "Base Banner Template for CM360",
   "repository": {
     "type": "git",
-    "url": "https://github.com/epandco/Banner-Base-Template"
+    "url": "https://github.com/theokov/amplify-test"
   },
   "scripts": {
     "start": "./node_modules/gulp/bin/gulp.js",
